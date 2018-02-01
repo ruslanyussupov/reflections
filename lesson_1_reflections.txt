@@ -1,0 +1,3 @@
+* How did viewing a diff between two versions of a file help you see the bug that was introduced?
+- By compairing last worked version with the current containing the bug we can see where we made mistake.
+
