@@ -2,4 +2,8 @@
 - New directory is created named .git that contains history of commits.
   To initialize .git directory that contains necessary files.
 
+* How is the staging area different from the working directory and the repository? What value do you think it offers?
+- Staging area is an abstract layer between working directory and repository.
+  It helps to separate commits and manage what you want to commit.
+
   
