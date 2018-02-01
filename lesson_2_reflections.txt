@@ -11,3 +11,8 @@
   Then we add other files related to another logical change to stage area and commit them.
   And so on.
 
+* How do the diagrams help you visualize the branch structure?
+- Diagrams show child-parent relationships of commits, so we can see the branch structure.
+
+
+
