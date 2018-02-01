@@ -5,4 +5,10 @@
 - If we made bad updates with errors and bugs we can easy return to the last worked state.
   Also we can easy add and cancel features by switching versions.
 
+* What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- pros
+  you can logicaly separate commits, so it will be easy to find and use a commit you need
+  cons
+  you can loose some data, that you didn't commit in time
+
   
