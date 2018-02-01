@@ -18,4 +18,5 @@
 - Using git log we can see the list of last commits.
   Using git diff we can compare any two commits and see changes were made.
 
-  
+* How might using version control make you more confident to make changes that could break something?
+- Because I can return to the last worked version using git checkout in any time.
