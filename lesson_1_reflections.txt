@@ -24,3 +24,6 @@
 * Now that you have your workspace set up, what do you want to try using Git for?
 - Check out how diff result will look like.
 
+* What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- For example, when you want to make some changes, but you don't want to be them in master branch.
+  In cases when you want to test something, or make new version etc.
