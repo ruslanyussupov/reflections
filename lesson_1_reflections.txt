@@ -20,3 +20,7 @@
 
 * How might using version control make you more confident to make changes that could break something?
 - Because I can return to the last worked version using git checkout in any time.
+
+* Now that you have your workspace set up, what do you want to try using Git for?
+- Check out how diff result will look like.
+
