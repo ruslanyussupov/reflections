@@ -1,0 +1,5 @@
+* What happens when you initialize a repository? Why do you need to do it?
+- New directory is created named .git that contains history of commits.
+  To initialize .git directory that contains necessary files.
+
+  
