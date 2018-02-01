@@ -18,3 +18,10 @@
 - The result is one branch contains commits of two branches.
   To see the branch structure!
 
+* What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- pros:
+  You don't need to compaire files and specify how to merge them
+  cons:
+  Automatic merge may merge your files incorrect and distroy your program logic.
+
+  
