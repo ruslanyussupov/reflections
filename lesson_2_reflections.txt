@@ -14,5 +14,7 @@
 * How do the diagrams help you visualize the branch structure?
 - Diagrams show child-parent relationships of commits, so we can see the branch structure.
 
-
+* What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- The result is one branch contains commits of two branches.
+  To see the branch structure!
 
