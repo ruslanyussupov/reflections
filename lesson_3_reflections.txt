@@ -21,3 +21,10 @@
   product.
   But it would be harder to plan and manage all work.
 
+* When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When we want to test some features or do experimantal changes.
+  Doing changes directly in master branch is easy to manage. We don't need to
+  solve merging conflicts. But using separate branch gives us more flexibility
+  and advantages.
+
+
