@@ -8,3 +8,8 @@
 - Clone is a copy of repository. We can use it when we want to copy a repository from local to local or from github to local.
   Fork is the same as clone, but it's used on the GitHub. We use it when we need to copy someone's repository from GitHub to our GitHub account. 
   Branch is sequence of commits that have parent-child relationship. We can use branches when we want to make i.e. experimental changes that will not affect the current state.
+
+* What is the benefit of having a copy of the last known state of the remote stored locally?
+- You can work without internet.
+  You can make changes and don't worry that it will affect the remote repository.
+  If there are several collaborators it is better when each have local copy of remote repository than everyone would work directly with remote repository. It'll be easier to manage conflicts.
