@@ -13,3 +13,11 @@
 - You can work without internet.
   You can make changes and don't worry that it will affect the remote repository.
   If there are several collaborators it is better when each have local copy of remote repository than everyone would work directly with remote repository. It'll be easier to manage conflicts.
+
+* How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- I would devide the project into independet modules and distribute them between
+  collaborators. 
+  I think it would be easier to combine all work together and get the final
+  product.
+  But it would be harder to plan and manage all work.
+
